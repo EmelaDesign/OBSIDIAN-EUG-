@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "325887116cae903c",
+    "type": "split",
+    "children": [
+      {
+        "id": "20671cad88dd78d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61b57181feb3e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Порядок действий GitHub Desktop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a8594769b52e711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5324d76bf81eeb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3383199a70a1737",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb32398e951c7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6fcbe71e85bfa4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1b47c988b7ce7bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e19676e16b5ec074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b527ba14b7970c3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01fb6b5518295225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d154df61d495f2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Порядок действий GitHub Desktop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "423f63f8d8182703",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Порядок действий GitHub Desktop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dd3dc3e46d756bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42a393a1fcc46511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Порядок действий GitHub Desktop.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e61b57181feb3e94",
+  "lastOpenFiles": [
+    "Порядок действий GitHub Desktop.md"
+  ]
+}
