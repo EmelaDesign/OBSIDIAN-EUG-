@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c4744b07b218f015","type":"text","text":"Репозитоий ГитХаб","x":600,"y":-180,"width":250,"height":243},
+		{"id":"5f2699462a459499","type":"text","text":"Хранилище обсидиан","x":600,"y":-109,"width":250,"height":172},
+		{"id":"73153562529fc9e4","type":"text","text":"Дома","x":-178,"y":-13,"width":153,"height":152},
+		{"id":"e9961f2624c09f9b","type":"text","text":"Вы (Саша Шумилова)","x":-178,"y":59,"width":153,"height":80},
+		{"id":"2ec3d037a7888f44","type":"text","text":"Хранилище Обсидиан(конспекты, локальный)","x":100,"y":-207,"width":238,"height":126},
+		{"id":"36f62df84283c6b8","type":"text","text":"Хранилище Обсидиан(конспекты, локальный)","x":100,"y":0,"width":238,"height":126},
+		{"id":"687eb25f6c7f02a1","type":"text","text":"Колледж","x":-180,"y":-212,"width":157,"height":136},
+		{"id":"ae2604c1803b7219","type":"text","text":"Вы (Саша Шумилова)","x":-180,"y":-156,"width":157,"height":80},
+		{"id":"e95b2a207f1f2192","x":-160,"y":-760,"width":780,"height":480,"type":"file","file":"Взаимодействие между мной и репозиторием.md"}
+	],
+	"edges":[
+		{"id":"0faed0b3a0f3b4e1","fromNode":"2ec3d037a7888f44","fromSide":"right","toNode":"c4744b07b218f015","toSide":"left"},
+		{"id":"be25a4eba3058b65","fromNode":"36f62df84283c6b8","fromSide":"right","toNode":"c4744b07b218f015","toSide":"left"},
+		{"id":"57c215797812ef25","fromNode":"73153562529fc9e4","fromSide":"right","toNode":"36f62df84283c6b8","toSide":"left"},
+		{"id":"a875440b03a45280","fromNode":"687eb25f6c7f02a1","fromSide":"right","toNode":"2ec3d037a7888f44","toSide":"left","label":"А и Б"}
+	]
+}
